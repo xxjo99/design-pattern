@@ -4,7 +4,7 @@
 - 생성 / 구조 / 행동 세가지 패턴으로 구분
 
 ## 생성(Creational) 패턴
-- Singleton
+- [Singleton](https://github.com/xxjo99/design-pattern/tree/master/src/creational/singleton)
 - Abstract Factory
 - Factory Method
 - Builder

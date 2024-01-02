@@ -25,7 +25,7 @@
 ## 행동(Behavioral) 패턴
 - [Command](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/command)
 - [Interpreter](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/interpreter)
-- Iterator
+- [Iterator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/iterator)
 - Mediator
 - Memento
 - Observer

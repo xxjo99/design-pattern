@@ -1,5 +1,6 @@
 package creational.singleton;
 
+// 프린트 예제
 public class Print {
 
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
 package behavioural.command;
 
+// 컴퓨터를 켜고 끄는 예제
 public class Client {
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package sturctural.adapter;
 
-// 각기 다른 전압 예제
+// 어댑터를 통해 각기 다른 전압을 통합하는 예제
 public class Client {
 
     public static void main(String[] args) {

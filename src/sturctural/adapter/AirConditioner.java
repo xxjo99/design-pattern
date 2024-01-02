@@ -1,6 +1,7 @@
 package sturctural.adapter;
 
 // Adaptee
+// 220v를 사용하는 제품
 public class AirConditioner implements Elec220v {
 
     @Override

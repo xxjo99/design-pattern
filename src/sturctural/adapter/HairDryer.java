@@ -1,6 +1,7 @@
 package sturctural.adapter;
 
 // Adaptee
+// 110v를 사용하는 제품
 public class HairDryer implements Elec110v {
 
     @Override

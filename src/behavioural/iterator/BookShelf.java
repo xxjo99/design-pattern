@@ -3,6 +3,7 @@ package behavioural.iterator;
 import java.util.Iterator;
 
 // Aggregate 구현
+// 책을 보관하는 책꽃이
 public class BookShelf implements Aggregate {
 
     private Book[] books; // 책의 집합체

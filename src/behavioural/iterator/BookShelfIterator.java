@@ -4,6 +4,7 @@ import java.util.Iterator;
 
 // Iterator 구현
 // Iterator은 자바에 내장되어 있음
+// BookShelf에서 책을 검색
 public class BookShelfIterator implements Iterator<Book> {
     private BookShelf bookShelf; // 검색을 수행할 책꽂이
     private int index = 0; // 현재 처리할 책의 위치

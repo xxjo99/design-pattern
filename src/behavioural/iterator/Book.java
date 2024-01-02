@@ -1,5 +1,6 @@
 package behavioural.iterator;
 
+// 책 클래스
 public class Book {
 
     private String name;

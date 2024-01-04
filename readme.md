@@ -15,7 +15,7 @@
 
 ## 구조(Structural) 패턴
 - [Adapter](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/adapter)
-- Composite
+- [Composite](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/composite)
 - Decorator
 - Facade
 - Flyweight

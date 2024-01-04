@@ -6,9 +6,9 @@
 ![img.png](img.png)
 
 - Iterator : 집합체의 요소들을 순서대로 검색하기 위한 인터페이스를 정의
-- ConcreateIterator : Iterator 인터페이스 구현
+- ConcreteIterator : Iterator 인터페이스 구현
 - Aggregate : 여러 요소들로 이루어져 있는 집합체
-- ConcreateAggregate : Aggregate 인터페이스 구현
+- ConcreteAggregate : Aggregate 인터페이스 구현
 
 ### 장점
 

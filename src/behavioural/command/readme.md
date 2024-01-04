@@ -5,7 +5,7 @@
 ![img.png](img.png)
 
 - Command : 실행될 기능에 대한 인터페이스, 실행될 기능을 execute 메서드로 선언
-- ConcreateCommand : 실제로 실행될 기능을 구현
+- ConcreteCommand : 실제로 실행될 기능을 구현
 - Invoker : 기능의 실행을 요청하는 호출자 클래스
 - Receiver :  ConcreateCommand에서 execute 메서드를 구현할 때 필요한 클래스, ConcreateCommand의 기능을 실행하기 위해 사용하는 수신자 클래스
 

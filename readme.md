@@ -8,7 +8,7 @@
 
 ## 생성(Creational) 패턴
 - [Singleton](https://github.com/xxjo99/design-pattern/tree/master/src/creational/singleton)
-- Abstract Factory
+- [Abstract Factory](https://github.com/xxjo99/design-pattern/tree/master/src/creational/abstractFactory)
 - Factory Method
 - Builder
 - Prototype

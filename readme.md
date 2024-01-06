@@ -16,7 +16,7 @@
 ## 구조(Structural) 패턴
 - [Adapter](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/adapter)
 - [Composite](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/composite)
-- Decorator
+- [Decorator](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/decorator)
 - Facade
 - Flyweight
 - Proxy
@@ -26,7 +26,7 @@
 - [Command](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/command)
 - [Interpreter](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/interpreter)
 - [Iterator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/iterator)
-- Mediator
+- [Mediator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/mediator)
 - Memento
 - Observer
 - State

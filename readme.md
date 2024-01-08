@@ -9,7 +9,7 @@
 ## 생성(Creational) 패턴
 - [Singleton](https://github.com/xxjo99/design-pattern/tree/master/src/creational/singleton)
 - [Abstract Factory](https://github.com/xxjo99/design-pattern/tree/master/src/creational/abstractFactory)
-- Factory Method
+- [Factory Method](https://github.com/xxjo99/design-pattern/tree/master/src/creational/factoryMethod)
 - Builder
 - Prototype
 
@@ -27,7 +27,7 @@
 - [Interpreter](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/interpreter)
 - [Iterator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/iterator)
 - [Mediator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/mediator)
-- Memento
+- [Memento](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/memento)
 - Observer
 - State
 - Strategy

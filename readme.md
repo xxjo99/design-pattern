@@ -28,7 +28,7 @@
 - [Iterator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/iterator)
 - [Mediator](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/mediator)
 - [Memento](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/memento)
-- Observer
+- [Observer](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/observer)
 - State
 - Strategy
 - Template Method

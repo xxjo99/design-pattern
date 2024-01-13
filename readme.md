@@ -30,7 +30,7 @@
 - [Memento](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/memento)
 - [Observer](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/observer)
 - [State](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/state)
-- Strategy
+- [Strategy](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/strategy)
 - Template Method
 - Visitor 
 - Chain of Responsibility

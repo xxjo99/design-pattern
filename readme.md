@@ -10,7 +10,7 @@
 - [Singleton](https://github.com/xxjo99/design-pattern/tree/master/src/creational/singleton)
 - [Abstract Factory](https://github.com/xxjo99/design-pattern/tree/master/src/creational/abstractFactory)
 - [Factory Method](https://github.com/xxjo99/design-pattern/tree/master/src/creational/factoryMethod)
-- Builder
+- [Builder](https://github.com/xxjo99/design-pattern/tree/master/src/creational/builder)
 - Prototype
 
 ## 구조(Structural) 패턴

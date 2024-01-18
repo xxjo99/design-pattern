@@ -18,7 +18,7 @@
 - [Composite](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/composite)
 - [Decorator](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/decorator)
 - [Facade](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/facade)
-- Flyweight
+- [Flyweight](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/flyweight)
 - Proxy
 - Bridge
 

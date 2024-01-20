@@ -19,7 +19,7 @@
 - [Decorator](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/decorator)
 - [Facade](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/facade)
 - [Flyweight](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/flyweight)
-- Proxy
+- [Proxy](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/proxy)
 - Bridge
 
 ## 행동(Behavioral) 패턴

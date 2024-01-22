@@ -32,7 +32,7 @@
 - [State](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/state)
 - [Strategy](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/strategy)
 - [Template Method](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/templateMethod)
-- Visitor 
+- [Visitor]
 - Chain of Responsibility
 
 

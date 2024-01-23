@@ -11,7 +11,7 @@
 - [Abstract Factory](https://github.com/xxjo99/design-pattern/tree/master/src/creational/abstractFactory)
 - [Factory Method](https://github.com/xxjo99/design-pattern/tree/master/src/creational/factoryMethod)
 - [Builder](https://github.com/xxjo99/design-pattern/tree/master/src/creational/builder)
-- Prototype
+- [Prototype](https://github.com/xxjo99/design-pattern/tree/master/src/creational/prototype)
 
 ## 구조(Structural) 패턴
 - [Adapter](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/adapter)
@@ -32,7 +32,7 @@
 - [State](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/state)
 - [Strategy](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/strategy)
 - [Template Method](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/templateMethod)
-- [Visitor]
+- [Visitor](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/visitor)
 - Chain of Responsibility
 
 

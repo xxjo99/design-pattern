@@ -20,7 +20,7 @@
 - [Facade](https://github.com/xxjo99/design-pattern/tree/master/src/sturctural/facade)
 - [Flyweight](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/flyweight)
 - [Proxy](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/proxy)
-- Bridge
+- [Bridge](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/bridge)
 
 ## 행동(Behavioral) 패턴
 - [Command](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/command)

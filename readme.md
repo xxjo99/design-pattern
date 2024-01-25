@@ -33,6 +33,6 @@
 - [Strategy](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/strategy)
 - [Template Method](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/templateMethod)
 - [Visitor](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/visitor)
-- Chain of Responsibility
+- [Chain of Responsibility](https://github.com/xxjo99/design-pattern/tree/master/src/behavioural/chainOfResponsibility)
 
 
